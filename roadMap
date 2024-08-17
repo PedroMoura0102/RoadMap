@@ -1,0 +1,89 @@
+RoadMap
+
+=> Operadores Lógicos e Matemáticos
+
+-Variáveis e Constantes
+Entender como armazenar valores é fundamental para qualquer código
+
+-Tipos de dados
+Saber que tipos de valores você está manipulando é essencial logo após aprender a armazená-los.
+
+-Estruturas de dados
+Começa a organizar informações de formas mais complexas, como arrays e objetos.
+
+-Condicionais (if e else)
+Agora que você entende os dados, pode começar a tomar decisões no código.
+
+-Laços de Repetição (for e Whiles)
+Para automatizar processos repetitivos, o próximo passo é aprender loops.
+
+-Operadores Lógicos e Matemáticos
+Com base em todas as fundações anteriores, você começa a aplicar lógica e operações matemáticas.
+
+-Manipulação de Objetos
+Finalmente, o uso avançado de objetos, uma das estruturas de dados mais usadas.
+
+=> DOM - Document Object Model
+
+-Seletores
+Primeiro, você precisa entender como selecionar elementos no DOM para manipulá-los.
+
+-Maninupular o CSS (através do JS)
+Uma vez que você pode selecionar elementos, comece a alterar sua aparência.
+
+-Eventos
+Agora você pode fazer esses elementos reagirem a interações.
+
+-array ( map, filter, reduce, sort)¹ (forEach, some, every, find)²
+Aprenda a manipular listas de elementos ou dados que podem ser usados no DOM.
+
+-Manipulação Avançada de Arrays
+Continue a exploração com outras funções de arrays que ajudam na lógica de manipulação de dados.
+
+-Funções
+Organize sua manipulação do DOM e dos dados em blocos reutilizáveis de código.
+
+-Módulos e Import/Export
+Comece a separar e organizar melhor seu código em diferentes arquivos.
+
+-Local Storage
+Aprenda a armazenar informações no navegador para persistência de dados entre sessões.
+
+=> Programação Assíncrona
+
+-Fetch
+Aprender a fazer requisições HTTP para obter dados externos é fundamental.
+
+-Promises
+Entender como lidar com operações assíncronas que podem demorar a responder.
+
+-Async/await
+Torna o uso de Promises mais legível e estruturado.
+
+-JSON e APIs
+Amarre tudo junto, trabalhando com APIs reais e manipulando os dados recebidos.
+
+=> ES6+ Features
+
+-Arrow Functions
+Um novo modo de escrever funções, fundamental no JS moderno.
+
+-Destructuring
+Facilita a extração de dados de arrays e objetos.
+
+-Spread/Rest Operators
+Manipule arrays e objetos de forma mais poderosa e concisa.
+
+-Classes
+Introduz uma maneira orientada a objetos de estruturar o código.
+
+=> Dicas de Projetos
+
+-Cronometro
+-Lista de Tarefas (uso de "localStorage")
+-Calculadora
+-Error Handling
+
+A partir daqui está pronto pra ir pra um framework!
+
+Treinar - Codecademy / Khan Academy / FreeCodeCamp / SoloLearn / Mimo
